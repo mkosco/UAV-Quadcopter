@@ -2,3 +2,6 @@
 - 12.09.2023 Erstes Zoom Meeting:
 	- geeinigt auf Ziel: Quadcopter mit automatisierter Steuerung
 	- Erstellung der OneNote Seite
+- 29.09.2023 Zoom Meeting:
+	- Umstieg auf Obsidian
+	- Git Repository eingerichtet
