@@ -1,0 +1,4 @@
+- 08.07.2023: WhatsApp Gruppe zum Ideen sammeln erstellt
+- 12.09.2023 Erstes Zoom Meeting:
+	- geeinigt auf Ziel: Quadcopter mit automatisierter Steuerung
+	- Erstellung der OneNote Seite
