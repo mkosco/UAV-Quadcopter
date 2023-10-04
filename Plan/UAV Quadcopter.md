@@ -4,6 +4,3 @@
 - [[Benutzerhandbuch]]
 - [[Hardware]]
 - [[Software]]
-
-test
- test
