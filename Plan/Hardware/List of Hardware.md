@@ -1,0 +1,11 @@
+- Motors
+- ESC
+- Raspberry Pi
+- FH-Batt
+- FC-Batt
+- IMU-PCB
+  - GPS-Module
+  - Barometer
+  - Accelerometer
+  - Gyroscope
+  - Ultra-Sonic Sensor
