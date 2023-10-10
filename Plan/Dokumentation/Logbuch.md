@@ -1,7 +1,9 @@
-- 08.07.2023: WhatsApp Gruppe zum Ideen sammeln erstellt
-- 12.09.2023 Erstes Zoom Meeting:
+- 2023.07.08: WhatsApp Gruppe zum Ideen sammeln erstellt
+- 2023.09.12 Erstes Zoom Meeting:
 	- geeinigt auf Ziel: Quadcopter mit automatisierter Steuerung
 	- Erstellung der OneNote Seite
-- 29.09.2023 Zoom Meeting:
+- 2023.09.29 Zoom Meeting:
 	- Umstieg auf Obsidian
 	- Git Repository eingerichtet
+- 2023.10.10. Zoom Meeting:
+	- Besprechung Zeitplan/Milestones
