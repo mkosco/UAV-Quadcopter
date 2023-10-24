@@ -9,4 +9,5 @@ Data sheet: [A2212 / 13T 1000KV](https://www.rhydolabz.com/documents/26/BLDC_A22
 
 Resources:
 [Video explaining Brushless DC Motos and how they can controlled by an Arduino](https://www.youtube.com/watch?v=yiD5nCfmbV0)
+
 [Video showing a _very_ similar test stand](https://youtu.be/3dArEoLOvzI?si=xQcGBLVD1deaIHbg)
