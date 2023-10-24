@@ -1,0 +1,2 @@
+- [Coral](https://coral.ai/products/#accessories)
+	- RPi might not be enough power for ML
