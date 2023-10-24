@@ -7,6 +7,9 @@
 	- Git Repository eingerichtet
 - 2023.10.10. Zoom Meeting:
 	- Besprechung Zeitplan/Milestones
-- 2023.10.14 Zoom Meeting:
+- 2023.10.17 Zoom Meeting:
 	- Planungsstand / Hardware Diskussion 
 	- Vortrag Lukas
+- 2023.10.24 Zoom Meeting:
+	- Vereinbarung von IRL Treffen
+	- Überlegung über ML Hardware
