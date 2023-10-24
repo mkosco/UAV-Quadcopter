@@ -7,3 +7,6 @@
 	- Git Repository eingerichtet
 - 2023.10.10. Zoom Meeting:
 	- Besprechung Zeitplan/Milestones
+- 2023.10.14 Zoom Meeting:
+	- Planungsstand / Hardware Diskussion 
+	- Vortrag Lukas
