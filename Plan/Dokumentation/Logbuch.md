@@ -13,3 +13,5 @@
 - 2023.10.24 Zoom Meeting:
 	- Vereinbarung von IRL Treffen
 	- Überlegung über ML Hardware
+- 2023.10.29 13:00-19:00
+	- [[2023.10.29|Treffen bei Luca um Motor Start zu testen und Uplift zu messen|]]
