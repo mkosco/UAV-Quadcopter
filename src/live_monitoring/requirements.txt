@@ -1,0 +1,3 @@
+python packages:
+customTKinter
+PILLOW
